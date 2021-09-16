@@ -1,6 +1,6 @@
 ---
-title: 'Rohit Dineshs site '
-pagetitle: ' My site '
+title: ' '
+pagetitle: ' Rohit Dinesh '
 output: 
   html_document: 
     css: "styles.css"
