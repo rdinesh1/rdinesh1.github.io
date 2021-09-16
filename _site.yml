@@ -1,0 +1,15 @@
+name: "Rohit Dinesh"
+navbar:
+  title: "My Site"
+  left:
+    - text: "Home"
+      href: index.html
+    - text: "Portfolio"
+      href: portfolio.html
+  right: 
+    - icon: fa-envelope fa-lg
+      href: mailto:<rohit.dinesh@utexas.edu>
+    - icon: fa-github fa-lg
+      href: http://github.com/rdinesh1/
+    - icon: fa-linkedin fa-lg
+      href: http://linkedin.com/in/rohit-dinesh/
